@@ -1,0 +1,17 @@
+D:\code\Practice\ConvertExcelToCSV\bin\Debug\ConvertExcelToCSV.exe.config
+D:\code\Practice\ConvertExcelToCSV\bin\Debug\ConvertExcelToCSV.exe.manifest
+D:\code\Practice\ConvertExcelToCSV\bin\Debug\ConvertExcelToCSV.application
+D:\code\Practice\ConvertExcelToCSV\bin\Debug\ConvertExcelToCSV.exe
+D:\code\Practice\ConvertExcelToCSV\bin\Debug\ConvertExcelToCSV.pdb
+D:\code\Practice\ConvertExcelToCSV\obj\Debug\ConvertExcelToCSV.csprojResolveAssemblyReference.cache
+D:\code\Practice\ConvertExcelToCSV\obj\Debug\MainWindow.baml
+D:\code\Practice\ConvertExcelToCSV\obj\Debug\MainWindow.g.cs
+D:\code\Practice\ConvertExcelToCSV\obj\Debug\App.g.cs
+D:\code\Practice\ConvertExcelToCSV\obj\Debug\ConvertExcelToCSV_MarkupCompile.cache
+D:\code\Practice\ConvertExcelToCSV\obj\Debug\ConvertExcelToCSV.g.resources
+D:\code\Practice\ConvertExcelToCSV\obj\Debug\ConvertExcelToCSV.Properties.Resources.resources
+D:\code\Practice\ConvertExcelToCSV\obj\Debug\ConvertExcelToCSV.csproj.GenerateResource.Cache
+D:\code\Practice\ConvertExcelToCSV\obj\Debug\ConvertExcelToCSV.exe.manifest
+D:\code\Practice\ConvertExcelToCSV\obj\Debug\ConvertExcelToCSV.application
+D:\code\Practice\ConvertExcelToCSV\obj\Debug\ConvertExcelToCSV.exe
+D:\code\Practice\ConvertExcelToCSV\obj\Debug\ConvertExcelToCSV.pdb
